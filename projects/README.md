@@ -1,4 +1,9 @@
-# Dataset and project ideas for Network Analysis 2024/2025
+# Dataset and project ideas for Network Analysis 2025/2026
+
+## Students for Current Cohort
+
+Current cohort roster data should be kept in [`students.csv`](./students.csv).
+Previous cohorts are archived in [`archive/`](./archive/) (e.g., `students_2024-2025.csv`).
 
 ## A word on data preparation
 
