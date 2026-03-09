@@ -4,7 +4,7 @@ Generate visualization images for Multi-layer Networks lecture.
 
 Required packages:
 - networkx>=2.6
-- matplotlib>=3.4
+- matplotlib>=3.4w
 - numpy>=1.20
 """
 
